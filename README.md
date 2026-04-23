@@ -1,7 +1,7 @@
 <div align="center">
   <h1>build-conventions</h1>
 
-  <p><em>A set of Gradle plugins with common build conventions.</p>
+  <p><em>A set of Gradle plugins with common build conventions.</em></p>
 
   <p>It centralizes common settings for Java projects, such as toolchain version, encoding, `options.release`, and code formatting with Spotless.</p>
 
@@ -57,7 +57,6 @@ plugins {
 ## Structure
 
 ```text
-.
 +-- core/
 |   +-- build.gradle.kts
 |   +-- src/main/
