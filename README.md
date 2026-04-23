@@ -5,20 +5,10 @@
 
   <p>It centralizes common settings for Java projects, such as toolchain version, encoding, `options.release`, and code formatting with Spotless.</p>
 
-  <div>
-    <a href="https://github.com/thelipe7/build-conventions/commits/main">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/thelipe7/build-conventions?style=flat-square&logo=github">
-    </a>
-    <a href="https://github.com/thelipe7/build-conventions/issues">
-      <img alt="GitHub issues" src="https://img.shields.io/github/issues/thelipe7/build-conventions?style=flat-square&logo=github">
-    </a>
-    <a href="https://github.com/thelipe7/build-conventions/stargazers">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/thelipe7/build-conventions?style=flat-square&logo=github">
-    </a>
-    <a href="https://github.com/thelipe7/build-conventions/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/thelipe7/build-conventions?style=flat-square">
-    </a>
-  </div>
+  [![Last commit](https://img.shields.io/github/last-commit/thelipe7/build-conventions?style=flat-square&logo=github)](https://github.com/thelipe7/build-conventions/commits/main)
+  [![GitHub issues](https://img.shields.io/github/issues/thelipe7/build-conventions?style=flat-square&logo=github)](https://github.com/thelipe7/build-conventions/issues)
+  [![GitHub stars](https://img.shields.io/github/stars/thelipe7/build-conventions?style=flat-square&logo=github)](https://github.com/thelipe7/build-conventions/stargazers)
+  [![License](https://img.shields.io/github/license/thelipe7/build-conventions?style=flat-square)](https://github.com/thelipe7/build-conventions/blob/main/LICENSE)
 </div>
 
 ## Overview
