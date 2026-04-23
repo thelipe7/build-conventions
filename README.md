@@ -5,7 +5,7 @@
 
   <p>It centralizes common settings for Java projects, such as toolchain version, encoding, `options.release`, and code formatting with Spotless.</p>
 
-  <p>
+  <div>
     <a href="https://github.com/thelipe7/build-conventions/commits/main">
       <img alt="Last commit" src="https://img.shields.io/github/last-commit/thelipe7/build-conventions?style=flat-square&logo=github">
     </a>
@@ -18,7 +18,7 @@
     <a href="https://github.com/thelipe7/build-conventions/blob/main/LICENSE">
       <img alt="License" src="https://img.shields.io/github/license/thelipe7/build-conventions?style=flat-square">
     </a>
-  </p>
+  </div>
 </div>
 
 ## Overview
